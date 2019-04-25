@@ -1,0 +1,9 @@
+Package: xasippin
+Type: Package
+Title: Implements the Joy of Aperol
+Version: 0.1.0
+Authors: br1ckmann
+Description: Contains all you need for the days to come
+License: Gurr-License 1.0
+Encoding: UTF-8
+LazyData: true
